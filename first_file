@@ -9,5 +9,15 @@ int main() {
     cout << "1. Physics" << endl;
     cout << "2. Chemistry" << endl;
     cout << "3. Mathematics" << endl;
+
+    cout << "\n1st Semester Subjects:" << endl;
+    cout << "1. Programming Fundamentals" << endl;
+    cout << "2. Calculus" << endl;
+    cout << "3. Islamic Studies" << endl;
+
+    cout << "\n2nd Semester Subjects:" << endl;
+    cout << "1. Object Oriented Programming" << endl;
+    cout << "2. Differential Equations" << endl;
+    cout << "3. Pakistan Studies" << endl;
     return 0;
 }
