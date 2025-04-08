@@ -4,5 +4,10 @@ using namespace std;
 int main() {
     cout << "Name: Faisal Javed" << endl;
     cout << "Roll Number: 24-ST-060" << endl;
+
+    cout << "\nFSC Subjects:" << endl;
+    cout << "1. Physics" << endl;
+    cout << "2. Chemistry" << endl;
+    cout << "3. Mathematics" << endl;
     return 0;
 }
